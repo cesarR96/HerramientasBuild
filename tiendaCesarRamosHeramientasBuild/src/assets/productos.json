@@ -1,0 +1,86 @@
+[
+  {
+  "name": "Aguacate",
+  "price": 10,
+  "available": 100,
+  "purchased":1,
+  "imgPath": "aguacate.jpg"
+  },
+  {
+  "name": "Ajo",
+  "price": 5,
+  "available": 50,
+  "purchased":1,
+  "imgPath": "ajo.jpg"
+  },
+  {
+  "name": "Almendras",
+  "price": 7.5,
+  "available": 60,
+  "purchased":1,
+  "imgPath": "almendras.jpg"
+  },
+  {
+  "name": "Arandanos",
+  "price": 3.5,
+  "available": 100,
+  "purchased":1,
+  "imgPath": "arandanos.jpg"
+  },
+  {
+  "name": "Brocoli",
+  "price": 8,
+  "available": 100,
+  "purchased":1,
+  "imgPath": "brocoli.png"
+  },
+  {
+  "name": "Calabaza",
+  "price": 4,
+  "available": 108,
+  "purchased":1,
+  "imgPath": "calabaza.jpg"
+  },
+  {
+  "name": "Canela",
+  "price": 20,
+  "available": 98,
+  "purchased":1,
+  "imgPath": "canela.jpg"
+  },
+  {
+  "name": "Cebolla",
+  "price": 5,
+  "available": 50,
+  "purchased":1,
+  "imgPath": "cebolla.jpg"
+  },
+  {
+  "name": "Fresa",
+  "price": 6,
+  "available": 70,
+  "purchased":1,
+  "imgPath": "fresa.jpg"
+   },
+   {
+   "name": "Kiwii",
+   "price": 6.5,
+   "available": 77,
+   "purchased":1,
+   "imgPath":"kiwi.jpg"
+  },
+  {
+  "name": "Limon",
+  "price": 8,
+  "available": 54,
+  "purchased":1,
+  "imgPath": "limon.jpg"
+  },
+  {
+  "name": "Lychee",
+  "price": 9,
+  "available": 33,
+  "purchased":1,
+  "imgPath": "lychee.jpg"
+  }
+]
